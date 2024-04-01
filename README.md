@@ -2,7 +2,7 @@
 
 ## Contents
 * **題目**: 考量碳稅開徵與碳排放量之訂單生產排程問題
-  * 模型程式碼
+  * [模型程式碼](https://github.com/pcchiu03/112NSTC/tree/main/Code/情境分析)
   * [成果報告](https://github.com/pcchiu03/112NSTC/blob/main/Files/成果報告.pdf)；簡報
 
 ## Notice
